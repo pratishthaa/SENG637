@@ -5,7 +5,7 @@
 The main submission files:
 
 1. Defect Report
-2. Lab Report
+2. [Lab Report](seng637-a1-4.md)
 
 ## GROUP MEMBERS:
 
